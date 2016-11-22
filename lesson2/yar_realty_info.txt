@@ -1,0 +1,9 @@
+0: seller type (1 - agency, 0 - person)
+1: room count
+2: property size (in sq. meters)
+3: floor
+4: floors in building
+5: rent (in rubles)
+6: x (longitude representation)
+7: y (latitude representation)
+8: district (1 - Заволжский, 2 - Дзержинский, 3 - Кировский, 4 - Ленинский, 5 - Фрунзенский, 6 - Красноперекопский)
